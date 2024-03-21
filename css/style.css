@@ -10,7 +10,7 @@
     margin: 20px auto;
     padding: 20px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    color: #702082;
+    color: #561365;
     background: #eedeb3;
 
   }
@@ -48,8 +48,8 @@
   input[type="submit"] {
     width: 100%;
     padding: 10px;
-    background-color: #4CAF50;
-    color: white;
+    background-color: #69ca6d;
+    color: rgb(1, 1, 1);
     border: none;
     border-radius: 5px;
     cursor: pointer;
