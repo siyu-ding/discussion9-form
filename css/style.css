@@ -4,17 +4,15 @@
   form {
     display: grid;
     grid-template-columns: 50% 50%;
-    border: 1px solid #ccc;
+    border: 1px solid #e3e3e3;
     border-radius: 16px;
     width: 70%;
     margin: 20px auto;
     padding: 20px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     color: #702082;
-    background: #CFC096;
-    font-family: "Jockey One", sans-serif;
-    font-weight: 400;
-    font-style: normal;
+    background: #eedeb3;
+
   }
 
 
@@ -30,8 +28,8 @@
     padding: 10px;
     font-size: 18px;
     font-weight: bold;
-    background: #CFC096;
-    color: #9B9A6D;
+    background: #93c6eb;
+    color: #2f2f03;
   }
 
   #message {
@@ -59,4 +57,10 @@
 
   input[type="submit"]:hover {
     background-color: #45a049;
+  }
+
+  body {
+    font-family: "Jockey One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
   }
